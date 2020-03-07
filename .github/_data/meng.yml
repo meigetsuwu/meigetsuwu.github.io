@@ -13,16 +13,16 @@ cursor: # Meng cursor
 console: # Meng console info
   switch: true # Meng console info switch
   theme_info: true # output theme info
-  text: "这是一段cosole.真的要写点什么吗？" # text
+  text: "这里是个console，要认真写吗？" # text
   color: "#fff" # text color
   background: "#448aff" # background color
 
-header: # Meng header color + theme-color
+header: 
   switch: true
 
 background: # Meng background
   switch: true
-  background_img: "https://sm.ms/image/KHh2nA1B3bjsDOy"
+  background_img: "https://ooo.0o0.ooo/2017/06/14/5940a9b8e4c21.jpg"
   transparent_header: true
   transparent_footer: false
   text_color: '#000'
@@ -36,26 +36,20 @@ live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
   switch: false
   model: "/assets/live2d/koharu/koharu.model.json" # model.json path
   drag: true # is drag ?
-  in_mobile: false
   width: 130 # canvas width
   height: 190 # canvas height
   bottom: 100 # canvas bottom
   leftOrRight: "right" # left or right
   offset: 10 # offset
 
-#!!!!do not use!!!!
-animation: # animate.css, see https://github.com/daneden/animate.css
-  switch: false # switch on and you can see the animation,!!!!do not use!!!!
-#!!!!do not use!!!!
-
 music_player:
   player: "aplayer" #cplayer or aplayer
   button_color: "#1abc9c"
   music:
-    - title: 'Faded'
-      author: 'Alan Walker'
-      url: 'http://www.170mv.com/kw/other.web.rh01.sycdn.kuwo.cn/resource/n2/14/71/3899067167.mp3'
-      pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
+    title: 'Faded'
+    author: 'Alan Walker'
+    url: 'http://www.170mv.com/kw/other.web.rh01.sycdn.kuwo.cn/resource/n2/14/71/3899067167.mp3'
+    pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
 
 head_card:
   switch: true

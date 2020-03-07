@@ -1,11 +1,11 @@
 - name: bilibili
-  url: https://space.bilibili.com/319223615
+  url: 
 
 - name: facebook
   url: 
 
 - name: github
-  url: https://github.com/moi-mo
+  url: https://github.com
 
 - name: gplus
   url: 
@@ -17,16 +17,16 @@
   url: 
 
 - name: telegram
-  url: 
+  url: https://web.telegram.org
 
 - name: tumblr
   url: 
 
 - name: twitter
-  url: https://twitter.com/AyakaRukako
+  url: https://twitter.com/
 
 - name: weibo
   url: 
 
 - name: zhihu
-  url: https://www.zhihu.com/people/moi.moe
+  url: 
