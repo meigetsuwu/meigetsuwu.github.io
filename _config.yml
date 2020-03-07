@@ -1,9 +1,9 @@
-title: "Jekyll-Theme-MDUI"
-description: "A Jekyll theme based on MDUI"
+title: "M E S"
+description: "moi's blog."
 url: 
 baseurl: ""
-author: "KeJun"
-paginate: 5
+author: "moimo233"
+paginate: 7
 paginate_path: "/blog/page:num/"
 
 
