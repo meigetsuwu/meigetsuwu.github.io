@@ -22,9 +22,9 @@ header: # Meng header color + theme-color
 
 background: # Meng background
   switch: true
-  background_img: "https://sm.ms/image/KHh2nA1B3bjsDOy"
+  background_img: "menhera.png"
   transparent_header: true
-  transparent_footer: false
+  transparent_footer: true
   text_color: '#000'
 
 card: # Meng card
