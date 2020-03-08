@@ -14,8 +14,5 @@
 - name: FRIENDS
   url: /friends/
   icon: "&#xe8a3;"
-- name: EDITOR
-  url: /editor/
-  icon: "&#xe150;"
 - name: navSearch
   switch: true
