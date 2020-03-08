@@ -1,8 +1,8 @@
 head:
-   favicon: "https://ooo.0o0.ooo/2017/05/27/59294212bc16e.png" #  the favicon
-   high_res_favicon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" #  the favicon using high quality format
-   apple_touch_icon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" # the iOS Home button icon
-   keywords: "blog jekyll mdui theme" #  the site keywords
+   favicon: "https://i.loli.net/2020/03/08/NOLIAjl7qzPp1gw.png" #  the favicon
+   high_res_favicon: "https://i.loli.net/2020/03/08/NOLIAjl7qzPp1gw.png" #  the favicon using high quality format
+   apple_touch_icon: "https://i.loli.net/2020/03/08/NOLIAjl7qzPp1gw.png" # the iOS Home button icon
+   keywords: "moi's blog MES" #  the site keywords
 
 uiux:
    android_chrome_color: "#eeeeee" #  the color of the Chrome address bar
@@ -14,10 +14,10 @@ background:
    purecolor: "#eeeeee" # the background color
 
 img:
-   avatar: "https://ooo.0o0.ooo/2017/05/26/5928368d409dd.png" # your avatar
+   avatar: "https://i.loli.net/2020/03/08/NOLIAjl7qzPp1gw.png" # your avatar
 
 card:
-   card_shadow: 1 # card shadow (0-24), 0 is not displayed
+   card_shadow: 12 # card shadow (0-24), 0 is not displayed
    card_hoverable: false # When the hover to deepen the shadow
 
 many_authors: false
