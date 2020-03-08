@@ -51,7 +51,7 @@ animation: # animate.css, see https://github.com/daneden/animate.css
 
 
 head_card:
-  switch: true
+  switch: false
   left_img: "514.png"
   left_text: "iiyo!koishi!"
   right_img: "514.png"

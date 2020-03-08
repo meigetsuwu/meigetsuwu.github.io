@@ -17,7 +17,7 @@ img:
    avatar: "https://i.loli.net/2020/03/08/NOLIAjl7qzPp1gw.png" # your avatar
 
 card:
-   card_shadow: 12 # card shadow (0-24), 0 is not displayed
+   card_shadow: 24 # card shadow (0-24), 0 is not displayed
    card_hoverable: false # When the hover to deepen the shadow
 
 many_authors: false
