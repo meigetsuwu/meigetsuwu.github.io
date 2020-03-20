@@ -25,3 +25,5 @@ exclude:
   - README.md
   - vendor
   - docs
+gems:
+  - jekyll-feed
