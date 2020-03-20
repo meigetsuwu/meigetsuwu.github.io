@@ -2,7 +2,7 @@ title: "M E S"
 description: "moi's blog."
 url: https://moi-mo.github.io
 baseurl: ""
-name:"M E S"
+name: "M E S"
 author: "moimo233"
 paginate: 8
 paginate_path: "/blog/page:num/"
