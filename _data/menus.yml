@@ -12,3 +12,6 @@
 - name: ABOUT
   url: /about/2020/03/08/about.html
   icon: "⚐"
+- name: RSS
+  url: /feed.xml
+  icon: "&#xf09e;"

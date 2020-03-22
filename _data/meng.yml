@@ -22,7 +22,8 @@ header: # Meng header color + theme-color
 
 background: # Meng background
   switch: true
-  background_img: "https://i.loli.net/2020/03/11/WbAk1vFM3UTiejs.jpg"
+  background_img: "https://i.loli.net/2020/03/22/fVYzIESWUB2kaAd.jpg" 
+  #"https://i.loli.net/2020/03/11/WbAk1vFM3UTiejs.jpg"
   #前背景"https://i.loli.net/2020/03/07/KHh2nA1B3bjsDOy.png" #menherachan
   transparent_header: true
   transparent_footer: true
