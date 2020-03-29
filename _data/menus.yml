@@ -1,17 +1,17 @@
 - name: HOME
   url: /
-  icon: home
+  icon: ""
 - name: TAGS
   url: /tags/
-  icon: "&#xe893;"
+  icon: ""
 - name: FRIENDS
   url: /friends/
-  icon: "&#xe8a3;"
+  icon: ""
 - name: navSearch
   switch: true
 - name: ABOUT
   url: /about/2020/03/08/about.html
-  icon: "⚐"
+  icon: ""
 - name: RSS
   url: /feed.xml
-  icon: "&#xf09e;"
+  icon: ""
