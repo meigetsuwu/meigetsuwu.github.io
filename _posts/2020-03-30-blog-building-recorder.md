@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "简要的记录一下搭博客的过程（github page+jekyll）"
-date: 2020-03-09 21:00:30 +0800
+title: "简要的记录一下搭博客的过程（使用githubPage+Jekyll）"
+date: 2020-03-30 17:30:30 +0800
 categories: code
 tags: 记录
 img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg

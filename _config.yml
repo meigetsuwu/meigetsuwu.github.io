@@ -9,7 +9,7 @@ paginate_path: "/blog/page:num/"
 kramdown:
   input: GFM
   hard_wrap: true
-
+timezone: Asia/Shanghai
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
