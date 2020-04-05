@@ -16,7 +16,7 @@ themetextcolor: "#000"
 
 看下面的代码。
 
-````C++
+````cpp
 #include <bits/stdc++.h>
 
 int main()

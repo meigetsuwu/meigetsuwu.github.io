@@ -58,9 +58,7 @@ prism:
   themes: prism-solarizedlight
   components:
     - bash
-    - Python
-    - C++
-    - c++
+    - cpp
     - python
   plugins:
 

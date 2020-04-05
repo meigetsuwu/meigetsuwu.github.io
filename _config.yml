@@ -1,11 +1,11 @@
 title: "M E S"
 description: "moi's blog."
-url: https://moi-mo.github.io
+url: http://rain.moimo.ren
 baseurl: ""
 name: "M E S"
 author: "moimo233"
 paginate: 8
-paginate_path: "/blog/page:num/"
+paginate_path: "/monogatari/page:num/"
 kramdown:
   input: GFM
   hard_wrap: true
