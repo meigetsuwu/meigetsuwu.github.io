@@ -15,6 +15,3 @@
 - name: RSS
   url: /feed.xml
   icon: ""
-- name: MesNuages
-  url: http://217.69.2.34
-  icon: ""
