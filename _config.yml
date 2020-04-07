@@ -5,7 +5,7 @@ baseurl: ""
 name: "M E S"
 author: "moimo233"
 paginate: 8
-paginate_path: "/monogatari/page:num/"
+paginate_path: "/pastdays/page:num/"
 kramdown:
   input: GFM
   hard_wrap: true
