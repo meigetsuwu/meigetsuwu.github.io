@@ -35,7 +35,7 @@ moimo@MES $ vim /[YOU HAVE NO ACCESS TO VIEW]/2038-01-19-send-me-a-message.md
 name: "M E S"
 icon: https://i.loli.net/2020/03/08/VRT2zfWZiLrUJPX.jpg
 url: https://rain.moimo.me
-describe: 请联系moi交换友链（
+describe: moi的一般通过小站
 ```
 
 <br>
