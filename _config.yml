@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
-
+future: true
 exclude:
   - package.json
   - node_modules

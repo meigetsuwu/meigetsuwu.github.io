@@ -1,24 +1,44 @@
 - name: 广告位招租
   image: https://i.loli.net/2020/03/08/VRT2zfWZiLrUJPX.jpg
-  url: https://moi-mo.github.io/friends/
+  url: https://rain.moimo.me/about/2038/01/18/send-me-a-message.html
   describe: 请联系moi交换友链（
+
 - name: 笨猫工作室
   image: https://i.loli.net/2020/03/11/lmwdUIuoeQf8FOi.png
   url: https://sillycat2.github.io
   describe: 可爱。（
+
 - name: "CLD's BLOG"
   image: https://i.loli.net/2020/03/16/1d57UQALlX3obsk.png
   url: https://cloudifold.github.io/MyBlog/
   describe: 技能树很杂的可爱少女
+
 - name: 山间之风
   image: https://i.loli.net/2020/03/21/VBU5fezKFLJlo2Z.png
   url: https://imirai.xyz
   describe: 某洪姓男子的杂物间
+
 - name: psyDuck
   image: https://s.gravatar.com/avatar/26dc5083dbae4fd29fc032ae5253b349?s=240
   url: https://psyduck.liujiayang.cn
   describe: 没有理想的人不伤心
+
 - name: 见崎鸣的运行日志
-  url: https://misakimei.top/
+  url: https://misakimei.space/
   describe: Still Alive.
-  image: 
+  image: https://misakimei.space/images/head.jpg
+
+#- name: 三日月綾香的個人主頁
+#  url: https://sgn.shn.hk/members/~ayaka/
+#  image: 
+#  describe:
+
+- name: "Sakurai Kaede's Blog"
+  image: https://i.loli.net/2020/04/29/BS6MvwEe5JyTnj1.jpg
+  url: https://sakurai.in/
+  describe: 梦之轮回
+
+- name: 稚
+  image: https://i.loli.net/2020/04/29/5kYD8AcgZsiI2NJ.png
+  url: https://subrige.xyz/
+  describe: "是很温柔的人呐……qwq"
