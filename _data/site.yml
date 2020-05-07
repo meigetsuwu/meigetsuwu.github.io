@@ -32,7 +32,9 @@ sns_share: # SNS Share Switch
    telegram: true
 
 comment:
-  used: "disqus" # disqus,livere,gitment,valine
+  used: 
+   - valine
+   - disqus # disqus,livere,gitment,valine
   # disqus config
   disqus_shortname: "moimo233" # Your disqus
   disqus_button: false # disqus load button
@@ -52,7 +54,7 @@ comment:
   valine_verify: false #validation code
   valine_app_id: 'tczqAoSNfwIbvzmvAgFTYXkA-gzGzoHsz'
   valine_app_key: 'Hof1BRtmDgh6ftWFu6H3L52c'
-  valine_placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!"
+  valine_placeholder: "Hey...just say something you wanna say."
 
 prism:
   themes: prism-solarizedlight
