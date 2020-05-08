@@ -4,7 +4,7 @@ url: http://rain.moimo.me
 baseurl: ""
 name: "M E S"
 author: "moimo233"
-paginate: 8
+paginate: 15
 paginate_path: "/pastdays/page:num/"
 kramdown:
   input: GFM
