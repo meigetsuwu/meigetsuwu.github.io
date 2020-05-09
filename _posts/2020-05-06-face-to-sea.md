@@ -2,7 +2,7 @@
 layout: post
 title: "摘录诗一首"
 date: 2020-05-06 12:50:00 +0800
-categories: feelings
+categories: thoughts
 tags: poems feelings 某
 img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
 describe: 从明天起，做一个幸福的人
