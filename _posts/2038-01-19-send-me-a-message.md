@@ -27,7 +27,7 @@ moimo@MES $ vim /[YOU HAVE NO ACCESS TO VIEW]/2038-01-19-send-me-a-message.md
 今天可是世界的最后一天哦？（笑
 随便什么，只要想说的，请留下吧。
 
-
+> 推荐使用Valine进行评论
 
 想要添加友链的话，这里是信息哦：
 
