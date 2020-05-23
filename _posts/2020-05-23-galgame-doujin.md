@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "回味与刺激"
-date: yyyy-mm-dd hh:mm:ss +0800
+date: 2020-05-23 22:50:00 +0800
 categories: games
 tags: galgame 某 杂谈
 img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
