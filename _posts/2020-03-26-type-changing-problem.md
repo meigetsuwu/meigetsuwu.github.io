@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: C++类型转换时的一个坑
-categories: [code]
+categories: [code,cpp]
 ---
 
 记录下c++中类型转换时遇到的一个坑。

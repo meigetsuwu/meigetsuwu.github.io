@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: 简要的记录一下搭博客的过程（使用githubPage+Jekyll）
-categories: [code]
+categories: [code,jekyll]
 ---
 
 简要记录一下吧，也只是记录一下而已，因为我很难说哪些东西是我选择的方式（主题、github pages，etc.）所特有的。如果翻到了这篇博客，也就看看权当参考吧。凭记忆写，可能有错em。

@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Humoresque Op.101, No.7的信
-categories: [thoughts]
+categories: [thoughts,omoi]
 ---
 
 听来像在阅读一封远方的来信一样，虽然不知道这封信是我寄给谁或是谁寄给我的，这封信就是在这里了，

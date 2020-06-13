@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: 为你的Jekyll博客部署Mikutap
-categories: [code]
+categories: [code,jekyll]
 ---
 
 要说的如题目。话不多说进入正题。

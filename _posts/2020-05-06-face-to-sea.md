@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: 摘录诗一首
-categories: [thoughts]
+categories: [omoi,poems]
 ---
 
 

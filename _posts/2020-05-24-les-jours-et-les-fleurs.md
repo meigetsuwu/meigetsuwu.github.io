@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: 没有必要让一切长久
-categories: [thoughts]
+categories: [thoughts,omoi]
 ---
 
 > 一篇题目为“\__让__长久”的半命题作文。
