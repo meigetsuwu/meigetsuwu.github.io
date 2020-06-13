@@ -1,30 +1,139 @@
-title: "M E S"
-description: "moi's blog."
-url: http://rain.moimo.me
-baseurl: ""
-name: "M E S"
-author: "moimo233"
-paginate: 15
-paginate_path: "/pastdays/page:num/"
+encoding: utf-8
+
+# SEO相关信息
+title: M E S
+description: moi的一般通过小站
+keywords: moimo,thoughts,scripts,Python
+author: moimo233
+footerText: '萌ICP备 20201551号'
+
+# 这些不要动
+permalink: /posts/:year/:month/:day/:title.html
 kramdown:
+  auto_ids: true
   input: GFM
-  hard_wrap: true
-timezone: Asia/Shanghai
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-feed
-future: true
-exclude:
-  - package.json
-  - node_modules
-  - gulpfile.js
-  - Gemfile
-  - Gemfile.lock
-  - jekyll-theme-mdui.gemspec
-  - LICENSE.txt
-  - README.md
-  - vendor
-  - docs
-gems:
-  - jekyll-feed
+exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.lock', 'cli.bat', 'dist.tar.gz']
+
+# 域名配置
+# baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
+domainUrl: 'https://rain.moimo.me'
+baseurl: ''
+
+# 吐个槽地址，会在chat页面中重定向到该地址
+tucaoUrl: 
+
+# 菜单
+menu:
+  - title: Main Page
+    url: /
+  - title: Categories
+    url: /pages/categories.html
+  - title: Search
+    url: /pages/search.html
+  - title: Links
+    url: /pages/links.html
+  - title: Leave me a message
+    url: /pages/chat.html
+  - title: About
+    url: /pages/about.html
+
+# 点击页面文字冒出特效,不需要请设置为false
+extClickEffect: true
+
+# Google Adsense,不需要请设置为false
+# _includes/ext-adsense.html 里面修改为自己的配置
+extAdsense: false
+
+# 腾讯MTA移动分析,不需要请设置为false
+# _includes/ext-adsense.html 里面修改为自己的配置
+extMTA: false
+
+# 百度收录自动推送,不需要请设置为false
+extBaidu: true
+
+# 数学公式支持，比较影响加载速度,不需要请设置为false
+extMath: false
+
+# 友情链接
+links:
+
+  - title: 笨猫工作室
+    image: https://i.loli.net/2020/03/11/lmwdUIuoeQf8FOi.png
+    url: https://sillycat2.github.io
+    describe: 可爱。（
+
+  - title: "CLD's BLOG"
+    image: https://i.loli.net/2020/03/16/1d57UQALlX3obsk.png
+    url: https://cloudifold.github.io/MyBlog/
+    describe: 技能树很杂的可爱少女
+
+  - title: 山间之风
+    image: https://i.loli.net/2020/03/21/VBU5fezKFLJlo2Z.png
+    url: https://imirai.xyz
+    describe: 某洪姓男子的杂物间
+
+  - title: psyDuck
+    image: https://s.gravatar.com/avatar/26dc5083dbae4fd29fc032ae5253b349?s=240
+    url: https://psyduck.liujiayang.cn
+    describe: 没有理想的人不伤心
+
+  - title: 见崎鸣的运行日志
+    url: https://misakimei.space/
+    describe: Still Alive.
+    image: https://misakimei.space/images/head.jpg
+
+  #- title: 三日月綾香的個人主頁
+  #  url: https://sgn.shn.hk/members/~ayaka/
+  #  image: 
+  #  describe:
+
+  - title: "Sakurai Kaede's Blog"
+    image: https://i.loli.net/2020/04/29/BS6MvwEe5JyTnj1.jpg
+    url: https://sakurai.in/
+    describe: 梦之轮回
+
+  - title: 稚
+    image: https://i.loli.net/2020/04/29/5kYD8AcgZsiI2NJ.png
+    url: https://subrige.xyz/
+    describe: "是很温柔的人呐……qwq"
+
+  - title: Twikor's
+    image: https://twic.me/media/pages/corpus/chronicle/apply-for-friendly-link/1750045209-1554526886/logo.png
+    url: https://twic.me
+    describe: 来自一个孤独而平凡的漫步者之叨扰与幻想
+
+  - title: "Bob's Coding Lab"
+    url: https://pegionfish.github.io/
+    image: https://pegionfish.github.io/img/%E9%9A%94%E9%9B%A8%E5%90%AC%E7%AB%B92.jpg
+    describe: "一个无聊的人写无聊的东西"
+
+  - title: "Lhc_fl Home"
+    url: https://lhcfl.github.io/
+    image: https://lhcfl.github.io/images/logo.png
+    describe: 锦心是锦心的锦心
+
+  - title: 青空之蓝
+    url: https://blog.ixk.me 
+    describe: 站在时光一端，回忆过往记忆。
+    image: https://ixk.me/avatar-full.png
+
+  - title: 清浅の碎碎念
+    url: https://ftm.moe/
+    image: https://secure.gravatar.com/avatar/70824e2dac003559ee89c10393221d91?s=220&r=X&d=mm
+    describe: 在漫长的痛苦中度过短暂的一生
+
+  - title: 飘零乡の夜雨
+    url: https://rainx.top
+    image: https://view.rain.2heng.xin/images/2020/05/18/60184745_p0.png
+    describe: 飘零の流浪者
+
+  - title: Velas电波站
+    url: https://www.velasx.com
+    image: https://public-1252562537.cos.ap-guangzhou.myqcloud.com/avatar.jpg
+    describe: 非正常信号发射与搜寻装置
+
+  - title:  赛克心
+    url: https://psychosin.github.io
+    image: https://moxtar-1s.com/psychosin/IMG_avator_ys.jpg
+    describe: 记录梦音和音乐，小说创作
+    

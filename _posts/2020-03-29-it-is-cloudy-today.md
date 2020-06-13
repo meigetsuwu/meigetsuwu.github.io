@@ -1,13 +1,7 @@
 ---
-layout: post
-title: "3月29日，阴。"
-date: 2020-03-29 16:25:30 +0800
-categories: thoughts
-tags: feelings
-img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
-describe: 3月29日，阴。无事可做、虚度光阴。
-themecolor: "#fff"
-themetextcolor: "#000"   
+layout: mypost
+title: 3月29日，阴。
+categories: [thoughts]
 ---
 
 今天是毫无疑问的阴天，让人兴致全无。

@@ -1,13 +1,7 @@
 ---
-layout: post
-title: "Humoresque Op.101, No.7的信"
-date: 2020-06-03 20:30:00 +0800
-categories: thoughts
-tags: feelings
-img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
-describe: 近来一切都好。
-themecolor: "#fff"
-themetextcolor: "#000"
+layout: mypost
+title: Humoresque Op.101, No.7的信
+categories: [thoughts]
 ---
 
 听来像在阅读一封远方的来信一样，虽然不知道这封信是我寄给谁或是谁寄给我的，这封信就是在这里了，

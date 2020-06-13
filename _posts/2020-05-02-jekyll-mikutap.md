@@ -1,13 +1,7 @@
 ---
-layout: post
-title: "为你的Jekyll博客部署Mikutap"
-date: 2020-05-02 15:10:00 +0800
-categories: code
-tags: code jekyll
-img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
-describe: 可爱~
-themecolor: "#fff"
-themetextcolor: "#000"
+layout: mypost
+title: 为你的Jekyll博客部署Mikutap
+categories: [code]
 ---
 
 要说的如题目。话不多说进入正题。

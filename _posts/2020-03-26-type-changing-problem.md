@@ -1,13 +1,7 @@
 ---
-layout: post
-title: "C++类型转换时的一个坑"
-date: 2020-03-09 21:00:30 +0800
-categories: code
-tags: code c++
-img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
-describe: 还是py好啊（棒读
-themecolor: "#fff"
-themetextcolor: "#000"
+layout: mypost
+title: C++类型转换时的一个坑
+categories: [code]
 ---
 
 记录下c++中类型转换时遇到的一个坑。

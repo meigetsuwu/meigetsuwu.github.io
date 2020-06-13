@@ -1,9 +1,0 @@
-layout: post
-title: "xxx"
-date: yyyy-mm-dd hh:mm:ss +0800
-categories: xxx
-tags: xxx
-img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
-describe: xxx
-themecolor: "#fff"
-themetextcolor: "#000"

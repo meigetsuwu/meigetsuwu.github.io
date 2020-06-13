@@ -1,13 +1,7 @@
 ---
-layout: post
-title: "简要的记录一下搭博客的过程（使用githubPage+Jekyll）"
-date: 2020-03-30 17:30:30 +0800
-categories: code
-tags: 记录
-img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
-describe: 只是记录而已。
-themecolor: "#fff"
-themetextcolor: "#000"
+layout: mypost
+title: 简要的记录一下搭博客的过程（使用githubPage+Jekyll）
+categories: [code]
 ---
 
 简要记录一下吧，也只是记录一下而已，因为我很难说哪些东西是我选择的方式（主题、github pages，etc.）所特有的。如果翻到了这篇博客，也就看看权当参考吧。凭记忆写，可能有错em。

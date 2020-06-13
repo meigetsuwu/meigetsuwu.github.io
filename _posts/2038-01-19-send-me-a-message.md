@@ -1,13 +1,7 @@
 ---
-layout: post
-title: "留言板"
-date: 2038-01-19 03:14:06 +0800
-categories: about
-tags: 某 about
-img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
-describe: Left me a message.
-themecolor: "#fff"
-themetextcolor: "#000"
+layout: mypost
+title: 留言板
+categories: [about]
 ---
 ````bash
 JohnTitor@IBN5100 $ ssh moimo@MES

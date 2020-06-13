@@ -1,13 +1,7 @@
 ---
-layout: post
-title: "没有必要让一切长久"
-date: 2020-05-24 23:00:00 +0800
-categories: thoughts
-tags: 某 feelings
-img: https://i.loli.net/2020/03/08/8IoqnF4EceCP9A2.jpg
-describe: 没有必要。
-themecolor: "#fff"
-themetextcolor: "#000"
+layout: mypost
+title: 没有必要让一切长久
+categories: [thoughts]
 ---
 
 > 一篇题目为“\__让__长久”的半命题作文。

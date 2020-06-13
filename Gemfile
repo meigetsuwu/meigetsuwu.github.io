@@ -1,8 +1,5 @@
-# source "https://rubygems.org"
-source 'https://gems.ruby-china.com'
+source 'https://rubygems.org'
 
-gem 'jekyll-paginate'
-gem 'jekyll-sitemap'
-gem 'jekyll-feed'
-gemspec
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'jekyll',           '3.8.5'
+gem 'rouge',            '3.11.0'
+gem 'wdm',              '>= 0.1.0'
