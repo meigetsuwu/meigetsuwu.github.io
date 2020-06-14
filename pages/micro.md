@@ -9,7 +9,6 @@ title: Micro Blog
 202006140938
 
 > 第一条。
-{% include disqus.html -%}
 
 ---
 
