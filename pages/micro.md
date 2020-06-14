@@ -24,5 +24,10 @@ title: Micro Blog
 > 没耳机的日子好难熬……突然发现自己对音乐这么需求的吗……
 > valine提交两遍评论的bug好烦……
 
+---
+
+202006142242
+
+> 晚安哦
 
 {% include disqus.html -%}
