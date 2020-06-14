@@ -32,8 +32,10 @@ menu:
     url: /pages/search.html
   - title: Links
     url: /pages/links.html
-  - title: Leave me a message
+  - title: Message
     url: /pages/chat.html
+  - title: Micro
+    ur;: /pages/micro
   - title: About
     url: /pages/about.html
 
