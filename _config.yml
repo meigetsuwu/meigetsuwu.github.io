@@ -57,11 +57,6 @@ extMath: false
 # 友情链接
 links:
 
-  - title: 笨猫工作室
-    image: https://i.loli.net/2020/03/11/lmwdUIuoeQf8FOi.png
-    url: https://sillycat2.github.io
-    describe: 可爱。（
-
   - title: "CLD's BLOG"
     image: https://i.loli.net/2020/03/16/1d57UQALlX3obsk.png
     url: https://cloudifold.github.io/MyBlog/
@@ -139,4 +134,7 @@ links:
 
   - title: senioria
     url: https://91khr.github.io/
+
+  - title: 蝉时雨
+    url: https://chanshiyu.com
     
