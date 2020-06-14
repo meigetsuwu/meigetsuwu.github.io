@@ -10,3 +10,12 @@ title: Micro Blog
 
 > 第一条。
 {% include disqus.html -%}
+
+---
+
+202006141402
+
+> 最近不过是耳机丢了而已……突然变得好浮躁……冲太多了贤者了……
+> 还有30d……
+
+{% include disqus.html -%}
