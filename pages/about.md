@@ -2,6 +2,25 @@
 layout: mypost
 title: About
 ---
+# About
+
+> 本节更新于20200614。
+
+想一想还是简要About一下吧。
+
+- MtF(non-hrt&non-srs)，GD无限趋近于零绝赞放置中
+- 20041031.（因为本来打算在这里写初三的，但一想还得经常改，干脆留个生日吧）
+- Orangestar激推，一般Vocaloid听众
+- 目前（中考前30d）的目标是考上目标高中，然后在某弱省参加noip（忘了改成什么名字了）。
+- Windows日常使用，~~精神~~支持KDE+Debian，Thinkpad、Android一生推
+- Python suki，Common Lisp fucking sexy~~然而理解不能~~
+- 引诱人，Arcaea ptt10.5，o!m4k，太鼓sdvx maimai都想玩可惜摸不到，psp太鼓玩家~~这才是1%~~
+- 惯用软件VSCode，Chrome，Windows Terminal
+- 没什么干劲有点小矛盾觉得自己并不是什么消极的人但是还是很想找人倒负能
+- 很难说算不算有喜欢的人，喜欢暧昧一点的关系。
+- 会嘴臭，用龙图，114514
+- 不过还是想要和大家深交啦……
+- 想到什么再加上吧。
 
 # 序
 
