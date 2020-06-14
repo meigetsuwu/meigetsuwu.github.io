@@ -35,7 +35,7 @@ menu:
   - title: Message
     url: /pages/chat.html
   - title: Micro
-    ur;: /pages/micro.html
+    url: /pages/micro.html
   - title: About
     url: /pages/about.html
 
