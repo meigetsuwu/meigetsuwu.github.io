@@ -38,4 +38,11 @@ title: Micro Blog
 > 哎
 > 晚安吧
 
+---
+
+202006152226
+
+> 感冒，不舒服
+
+
 {% include disqus.html -%}
