@@ -13,9 +13,9 @@ describe: moi的一般通过小站
 ```
 
 <ul>
-  {%- for link in site.links %}
+  {%- for link in site.data.links %}
   <li>
-    <p><a href="{{ link.url }}" title="{{ link.desc }}" target="_blank" >{{ link.title }}</a></p>
+    <a href="{{ link.url }}" target="_blank" >{{ link.title }}</a><p align="right">{{ link.describe }}</p>
   </li>
   {%- endfor %}
 </ul>

@@ -1,0 +1,14 @@
+- title: Main Page
+  url: /
+- title: Categories
+  url: /pages/categories.html
+- title: Search
+  url: /pages/search.html
+- title: Links
+  url: /pages/links.html
+- title: Message
+  url: /pages/chat.html
+- title: Micro
+  url: /pages/micro.html
+- title: About
+  url: /pages/about.html
