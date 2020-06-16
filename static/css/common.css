@@ -15,6 +15,7 @@ body {
   -webkit-text-size-adjust: 100%;
   font-family: Consolas, 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Heiti SC',
     'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+  
 }
 * {
   box-sizing: border-box;
@@ -85,7 +86,7 @@ body::-webkit-scrollbar {
 }
 a {
   position: relative;
-  color: rgba(	100,149,237,1)
+  color: #000000
 }
 a:hover:after {
   visibility: visible;
@@ -99,7 +100,7 @@ a:after {
   height: 1px;
   bottom: 0;
   left: 0;
-  background-color:#87CEFA;
+  background-color:	#000000;
   visibility: hidden;
   transform: scaleX(0);
   -webkit-transform: scaleX(0);
@@ -114,6 +115,8 @@ body {
   max-width: 680px;
   padding: 0 14px;
   margin: 0 auto;
+  background-image:url('https://i.loli.net/2020/06/16/gDtKlVEcjQYNIJq.jpg');
+  background-size:cover;
 }
 .header {
   padding: 40px 0;
@@ -216,3 +219,4 @@ body {
     font-size: 13px;
   }
 }
+
