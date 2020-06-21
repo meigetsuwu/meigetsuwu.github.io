@@ -15,9 +15,11 @@ title: Home
         <li>
           <span class="date">{{ post.date | date: "%Y/%m/%d" }}</span>
           <a href="{{ site.baseurl | append: post.url }}" class="title hover-underline">{{ post.title }}</a>
+          <p align = "right" style="white-space:nowrap">
           {% for categorie in post.categories -%}
-          <p align = "right" style="white-space:nowrap"><a href="{{site.baseurl}}/pages/categories.html#{{ categorie }}" class="category hover-underline">{{ categorie }}</a></p>
+          <a href="{{site.baseurl}}/pages/categories.html#{{ categorie }}" class="category hover-underline">{{ categorie }}</a>
           {%- endfor %}
+          </p>
         </li>
     {%- if forloop.last or post_previous_year != post_year %}
       </ul>
