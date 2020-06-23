@@ -75,5 +75,3 @@ title: Micro Blog
 
 > 草，竟然有点吃醋x
 
-
-{% include valine.html -%}
