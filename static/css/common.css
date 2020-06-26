@@ -9,6 +9,7 @@ html,
 body {
   padding: 0;
   margin: 0;
+  color: #586e75;
   background: #fdf6e3;
   scroll-behavior: smooth;
   -ms-text-size-adjust: 100%;
