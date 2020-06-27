@@ -3,8 +3,8 @@ layout: page
 title: Home
 ---
 <div class="page page-index test">
-  <iframe src="//player.bilibili.com/player.html?aid=14585584&bvid=BV1Kx411x7xD&cid=23781930&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-  <iframe align="right" src="//player.bilibili.com/player.html?aid=925780941&bvid=BV1QT4y1u795&cid=193636256&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <p><span>&ensp;&emsp;<iframe src="//player.bilibili.com/player.html?aid=14585584&bvid=BV1Kx411x7xD&cid=23781930&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></span>&emsp;&ensp;
+  <span><iframe src="//player.bilibili.com/player.html?aid=925780941&bvid=BV1QT4y1u795&cid=193636256&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></span></p>
   {% for post in site.posts  -%}
     {%- capture post_year %}{{ post.date | date: "%Y" }}{% endcapture -%}
     {%- capture post_previous_year %}{{ post.previous.date | date: "%Y" }}{% endcapture -%}
