@@ -105,7 +105,7 @@ categories: [oi,scheme,code]
 
 ```scheme
 (define (my-reverse li)
-  (my-reverse-qwq '() li)
+  (my-reverse-qwq '() li))
 (define (my-reverse-qwq l1 l2)
   (if (null? l2)
     l1
