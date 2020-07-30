@@ -1,3 +1,3 @@
 git add .
-git commit -m "micro"
+git commit -m "friends"
 git push origin master

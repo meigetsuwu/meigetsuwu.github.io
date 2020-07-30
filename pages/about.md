@@ -42,7 +42,7 @@ title: About
 
 邮箱 moimo@foxmail.com
 
-[Twitter@fleureau_qn](https://twitter.com/fleureau_qn)
+[Twitter@moimo233](https://twitter.com/moimo233)
 
 [GitHub@moi-mo](https://github.com/moi-mo)
 
