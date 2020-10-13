@@ -7,6 +7,6 @@ valine_micro_place_holder: "这里是moi的微博客"
 # footer, html code
 footer: 
   - '<a href="https://icp.gov.moe/?keyword=20201551" target="_blank">萌ICP备·20201551号</a> | '
-  - '<a href="{{ site.baseurl }}/static/xml/rss.xml">RSS</a> | '
+  - '<a href="https://rain.moimo.me/static/xml/rss.xml">RSS</a> | '
   - '<span> Theme Based on</span>'
   - '<a href="https://github.com/TMaize/tmaize-blog">TMaize-blog</a>'
