@@ -42,11 +42,9 @@ title: About
 
 邮箱 moimo@foxmail.com
 
-[Twitter@moimo233](https://twitter.com/moimo233)
+[Twitter@more1kkai](https://twitter.com/more1kkai)
 
 [GitHub@moi-mo](https://github.com/moi-mo)
-
-[知乎@moi某](https://www.zhihu.com/people/moi.moe)
 
 [limelight@moi_mo](https://limelight.moe/u/moi_mo/)
 
