@@ -8,7 +8,7 @@ title: About
 
 本站的站名“M E S”来自于我的常用id moi，moi在法语中的意思类似于“me”，而mes则为“我的”的复数所有格。中间的空格和大写则纯粹是为了排版。
 
-使用Jekyll驱动，主题是自己基于别人的主题改的主题，在GitHub上可以找到相关的repo，托管于Github Pages， 使用Cloudflare的CDN加速访问，域名服务来自GoDaddy。
+使用Jekyll驱动，主题是自己基于别人的主题改的主题，在GitHub上可以找到相关的repo，托管于Github Pages， 使用Cloudflare的CDN加速访问（2021年初GFW屏蔽了大量未备案域名，包括我站，暂时没有采取行动恢复国内访问的打算），域名服务来自GoDaddy。
 
 
 
