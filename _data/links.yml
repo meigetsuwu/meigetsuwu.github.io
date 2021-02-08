@@ -2,6 +2,10 @@
   url: https://cloudifold.github.io/MyBlog/
   describe: 技能树很杂的可爱少女
 
+- name: test
+  url: https://www.baidu.com
+  describe: just test.
+
 - title: 山间之风
   url: https://imirai.xyz
   describe: 某洪姓男子的杂物间
@@ -86,6 +90,3 @@
   url: https://blog.fivezha.cn/
   describe: 一位弱鸡带学生的个人博客
 
-- name: test
-  url: https://www.baidu.com
-  describe: just test.
