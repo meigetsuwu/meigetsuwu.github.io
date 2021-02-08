@@ -2,10 +2,6 @@
   url: https://cloudifold.github.io/MyBlog/
   describe: 技能树很杂的可爱少女
 
-- name: test
-  url: https://www.baidu.com
-  describe: just test.
-
 - title: 山间之风
   url: https://imirai.xyz
   describe: 某洪姓男子的杂物间
@@ -86,7 +82,7 @@
   url: https://phenol-phthalein.info
   describe: 坎坷之路，终抵群星，偶像黄昏，长眠之处。
 
-- name: "异国迷宫的十字路口"
+- title: "异国迷宫的十字路口"
   url: https://blog.fivezha.cn/
   describe: 一位弱鸡带学生的个人博客
 
