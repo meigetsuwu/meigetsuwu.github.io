@@ -6,7 +6,7 @@ title: Links
 # 广告位招租（
 
 ```
-name: "M E S"
+name: "mes ames"
 icon: https://i.loli.net/2020/03/08/VRT2zfWZiLrUJPX.jpg
 url: https://rain.moimo.me
 describe: moi的一般通过小站
