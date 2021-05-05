@@ -8,7 +8,7 @@ title: Links
 ```
 name: "mes ames"
 icon: https://i.loli.net/2020/03/08/VRT2zfWZiLrUJPX.jpg
-url: https://rain.moimo.me
+url: https://moi-mo.github.io
 describe: moi的一般通过小站
 ```
 
