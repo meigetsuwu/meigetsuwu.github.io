@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: About
+title: 关于
 ---
 ## About the Site
 

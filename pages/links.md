@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Links
+title: 链接
 ---
 
 # 广告位招租（

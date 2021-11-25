@@ -1,7 +1,7 @@
 ---
 title: 存活确认
 layout: mypost
-categories: [about]
+categories: [随想]
 ---
 
 嗯……最近放暑假了

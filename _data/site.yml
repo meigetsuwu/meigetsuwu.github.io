@@ -2,14 +2,9 @@
 valine_app_id: "u5mAY4OOUWIgQ9a87Csdlpzd-MdYXbMMI"
 valine_app_key: "jqRFLA8XBS3Hx9SK0o5wPNW2"
 valine_common_place_holder: "Whatever you wanna say."
-valine_micro_place_holder: "这里是moi的微博客"
 
 # footer, html code
 footer: 
-  - '<a href="https://icp.gov.moe/?keyword=20201551" target="_blank">萌ICP备·20201551号</a> | '
-  - '<a href="https://moi-mo.github.io/static/xml/rss.xml">RSS</a> | '
-  - '<span> Theme Based on</span>'
-  - '<a href="https://github.com/TMaize/tmaize-blog">TMaize-blog</a> | '
-  - '<a href="https://travellings.now.sh/" class="hover-underline" target="_blank">Travelling</a>
-'
+  - '<a href="{{ site.baseurl }}/static/xml/rss.xml">RSS</a> | '
+  - 'Themed by <a href="https://github.com/moi-mo/UMPaper">UMPaper</a>'
 

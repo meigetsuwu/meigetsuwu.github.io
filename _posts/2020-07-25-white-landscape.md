@@ -1,6 +1,6 @@
 ---
 layout: mypost
-categories: [omoi,A-B-monogatari,letter]
+categories: [剧本]
 title: 「White Landscape」
 ---
 
