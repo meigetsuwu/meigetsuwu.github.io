@@ -5,6 +5,6 @@ valine_common_place_holder: "Whatever you wanna say."
 
 # footer, html code
 footer: 
-  - '<a href="{{ site.baseurl }}/static/xml/rss.xml">RSS</a> | '
+  - '<a href="https://moi-mo.github.io/static/xml/rss.xml">RSS</a> | '
   - 'Themed by <a href="https://github.com/moi-mo/UMPaper">UMPaper</a>'
 
