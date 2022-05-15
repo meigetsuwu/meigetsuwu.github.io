@@ -1,11 +1,6 @@
-# valine
-valine_app_id: "u5mAY4OOUWIgQ9a87Csdlpzd-MdYXbMMI"
-valine_app_key: "jqRFLA8XBS3Hx9SK0o5wPNW2"
-valine_common_place_holder: "Whatever you wanna say."
-
 # footer, html code
 footer:
-  - '<a href="https://https://travellings.link">开往 | '
+  - '<a href="https://https://travellings.link" target="_blank">开往</a> | '
   - '<a href="https://moi-mo.github.io/static/xml/rss.xml">RSS</a> | '
   - 'Themed by <a href="https://github.com/moi-mo/UMPaper">UMPaper</a>'
 
