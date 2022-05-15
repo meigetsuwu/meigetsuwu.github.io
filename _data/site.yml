@@ -1,6 +1,6 @@
 # footer, html code
 footer:
   - '<a href="https://moi-mo.github.io/static/xml/rss.xml">RSS</a> | '
-  - '<a href="https://https://travellings.link" target="_blank">Travelling</a> | '
+  - '<a href="https://travellings.link" target="_blank">Travelling</a> | '
   - 'Themed by <a href="https://github.com/moi-mo/UMPaper">UMPaper</a>'
 
