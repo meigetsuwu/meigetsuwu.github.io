@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Consolas';
+  font-family: 'Source Han Sans';
   font-display: fallback;
-  src: url('../font/consola.ttf');
+  src: url('../font/SourceHanSans-Regular.ttf');
 }
 
 html {
