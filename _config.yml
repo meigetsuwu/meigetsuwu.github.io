@@ -45,3 +45,5 @@ defaults:
       path: ""
     values:
       layout: "mypost"
+      
+future: true
